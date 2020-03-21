@@ -1,0 +1,8 @@
+# ESTÁNDARES PROYECTO 2 #
+-------------------------
+Lenguaje: Java
+Base de Datos: MySQL
+Funciones (Métodos): UpperCamel Case
+Variables (Atributos): LowerCamel Case
+Modelo: 3 Capas (Datos, Lógica y Presentación)
+Versión Java: Java 8
